@@ -14,7 +14,7 @@
 
 ### Minhas informações aqui no GitHub:
 
-![Status](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact)](https://github.com/rendell-arruda)
+![Status](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rendell-arruda&layout=compact)](https://github.com/rendell-arruda)
 <!---
 rendell-arruda/rendell-arruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
