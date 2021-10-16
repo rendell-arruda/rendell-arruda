@@ -6,7 +6,7 @@
 
 ### 💞️ Gostaria de colaborar com projetos que me ajudem a crescer na área de Desenvolvimento Web e principalmente me desenvolver como pessoa.
 
-### Você pode me achar no email ou nas redes sociais:
+### Você pode me achar nas redes sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link_do_seu_perfil)](https://www.linkedin.com/in/rendell-arruda-5804b4177/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=link_do_seu_perfil)](https://www.facebook.com/rendell.arruda)
