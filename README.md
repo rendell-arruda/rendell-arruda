@@ -2,7 +2,8 @@
   
 ### 👨‍🔬 Sou Químico há mais de 10 anos, trabalho atualmente com de Energia e tecnologias da área Nuclear. Sempre fui autodidata e entusiasta da TI. Em 2021 comecei o Curso de Tecnologia da Informação para me profissionalizar na área. .
 
-### 👨‍💻 Atualmente estou interessado em Front-end e estou aprendendo ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 👨‍💻 Atualmente estou interessado em Front-end e estou aprendendo 
+![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 💞️ Gostaria de colaborar com projetos que me ajudem a crescer na área de Desenvolvimento Web e principalmente me desenvolver como pessoa.
 
