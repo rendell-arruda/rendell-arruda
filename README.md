@@ -1,10 +1,10 @@
 ## 👋 Olá meu nome é Rendell Arruda
   
-### 👨‍🔬 Sou Químico há mais de 10 anos, trabalho atualmente com de Energia e tecnologias da área Nuclear. Sempre fui autodidata e entusiasta da TI. Em 2021 comecei o Curso de Tecnologia da Informação para me profissionalizar na área. Estou interessado em Front-end.
+### 👨‍🔬 Sou Químico há mais de 10 anos, trabalho atualmente com de Energia e tecnologias da área Nuclear. Sempre fui autodidata e entusiasta da TI. Em 2021 comecei o Curso de Tecnologia da Informação para me profissionalizar na área. .
 
-### 👨‍💻 Atualmente estou aprendendo HTML e CSS.
+### 👨‍💻 Atualmente estou interessado em Front-ende e estou aprendendo ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) e ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white).
 
-### 💞️ Gostaria de colaborar com projetos que me ajudem a crescer na área de desenvolvimento web e como pessoa.
+### 💞️ Gostaria de colaborar com projetos que me ajudem a crescer na área de Desenvolvimento Web e principalmente me desenvolver como pessoa.
 
 ### Você pode me achar no email ou nas redes sociais:
 
