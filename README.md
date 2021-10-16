@@ -7,8 +7,11 @@
 ### 💞️ Gostaria de colaborar com projetos que me ajudem a crescer na área de desenvolvimento e como pessoa.
 
 ### Você pode me encontrar nas redes sociais: 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link_do_seu_perfil)](https://www.linkedin.com/in/rendell-arruda-5804b4177/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=link_do_seu_perfil)](https://www.facebook.com/rendell.arruda)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=link_do_seu_perfil)](https://www.instagram.com/rendell.arruda/)
+
+### Minhas informações aqui no GitHub:
 
 ![Status](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact)](https://github.com/rendell-arruda)
 <!---
