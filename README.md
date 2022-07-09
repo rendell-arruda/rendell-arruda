@@ -13,8 +13,4 @@
 
 ## Minhas informações aqui no GitHub:
 
-![Status](https://github-readme-stats.vercel.app/api?username=rendell-arruda) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rendell-arruda&layout=compact)](https://github.com/rendell-arruda)
-<!---
-rendell-arruda/rendell-arruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendell-arruda&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
