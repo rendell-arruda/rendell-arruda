@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Rendell Arruda.
 Welcome to my GitHub
   
-### 👨‍🔬 Sou Químico há mais de 11 anos
+### 👨‍🔬 Sou Químico há mais de 11 anos, e agora estudo Front-end e Desenvolvimento Moblie.
+
 Trabalho atualmente com gestão Ambiental, gerência e desenvolvimento de Tecnologia na área de Defesa e Energia Nuclear.
 
 Sempre fui autodidata e entusiasta da TI e em 2021 comecei o Curso do Eixo da Computação na Univesp pretendendo continuar a formação até a Engenharia da Computação para me profissionalizar na área.
