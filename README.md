@@ -19,7 +19,7 @@ Sempre fui autodidata e entusiasta da TI e em 2021 comecei o Curso do Eixo da Co
 
 ### 📊 Minhas informações aqui no GitHub:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendell-arruda&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendell-arruda&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Você pode me achar nas redes sociais:
