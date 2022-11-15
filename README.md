@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Rendell Arruda.
 Welcome to my GitHub
   
-### 👨‍🔬 Sou Químico há mais de 11 anos, e agora estudo Front-end e Desenvolvimento Moblie.
+### 👨‍🔬 Sou Químico há mais de 11 anos, e agora estudo Front-end e Desenvolvimento Mobile.
 
 Trabalho atualmente com gestão Ambiental, gerência e desenvolvimento de Tecnologia na área de Defesa e Energia Nuclear.
 
-Sempre fui autodidata e entusiasta da TI e em 2021 comecei o Curso do Eixo da Computação na Univesp pretendendo continuar a formação até a Engenharia da Computação para me profissionalizar na área.
+Sempre fui autodidata e entusiasta da TI e em 2021 comecei o Curso do Eixo da Computação na Univesp pretendendo continuar até o Bacharelado em Tecnologia da Informação para me profissionalizar na área.
 
 ### 👨‍💻 Atualmente estou estudando: 
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
