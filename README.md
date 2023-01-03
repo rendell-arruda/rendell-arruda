@@ -1,13 +1,9 @@
 # 👋 Hi, I'm Rendell Arruda.
 Welcome to my GitHub
   
-### 👨‍🔬 Sou Químico há mais de 11 anos, e agora estudo Front-end e Desenvolvimento Mobile.
+### 👨‍🔬 Químico & Bacharel em Tecnologia da Informação, focado em Front-end e Desenvolvimento Mobile.
 
-Trabalho atualmente com gestão Ambiental, gerência e desenvolvimento de Tecnologia na área de Defesa e Energia Nuclear.
-
-Sempre fui autodidata e entusiasta da TI e em 2021 comecei o Curso do Eixo da Computação na Univesp pretendendo continuar até o Bacharelado em Tecnologia da Informação para me profissionalizar na área.
-
-### 👨‍💻 Atualmente estou estudando: 
+#### 👨‍💻 Atualmente estou estudando: 
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Github React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Github React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -17,14 +13,14 @@ Sempre fui autodidata e entusiasta da TI e em 2021 comecei o Curso do Eixo da Co
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-### 📊 Minhas informações aqui no GitHub:
+#### 📊 Minhas informações aqui no GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendell-arruda&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Você pode me achar nas redes sociais:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link_do_seu_perfil)](https://www.linkedin.com/in/rendell-arruda-5804b4177/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=link_do_seu_perfil)](https://www.facebook.com/rendell.arruda)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=link_do_seu_perfil)](https://www.instagram.com/rendellarruda3/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link_do_seu_perfil)](https:://www.linkedin.com/in/rendell-arruda-5804b4177/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=link_do_seu_perfil)](https:://www.facebook.com/rendell.arruda)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=link_do_seu_perfil)](https:://www.instagram.com/rendellarruda3/)
 
