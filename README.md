@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rendell Arruda.
-Welcome to my GitHub
   
-### 👨‍🔬 Químico & Bacharel em Tecnologia da Informação, focado em Front-end e Desenvolvimento Mobile.
-
+### 👨‍🔬 Químico & Bacharel em Tecnologia da Informação, focado em Desenvolvimento Mobile e Front-End.
+####   Chemist and Bachelor of Information Technology, focused on Front-end and Mobile Development.
+~
 #### 👨‍💻 Atualmente estou estudando: 
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Github React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
