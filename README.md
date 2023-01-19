@@ -17,8 +17,8 @@
 
 #### 📊 Minhas informações aqui no GitHub:
 
-[![rendell-arruda](https://github-readme-stats.vercel.app/api/top-langs/?username=rendell-arruda&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendell-arruda&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Você pode me achar nas redes sociais:
 
