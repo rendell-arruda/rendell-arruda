@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rendell Arruda.
   
-### 👨‍🔬  Bacharel em Tecnologia da Informação e Químico, focado em Devops, Finops e Desenvolvimento Mobile.
-####   Bachelor of Information Technology and Chemist, focused on Devops, Finops and Mobile Development.
+### 👨‍🔬  Bacharel em Tecnologia da Informação e Químico, focado em Python, Devops e Finops.
+####   Bachelor of Information Technology and Chemist, focused on Python, Devops and Finops.
 ~
 #### 👨‍💻 Atualmente estou estudando: 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
